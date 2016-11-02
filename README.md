@@ -1,4 +1,1 @@
-wo shi fenzhi caiguai  
-wo you ge shepi wei
-liuleliuleliule
-dongdongdong
+刚接触nodejs 的一个菜鸟，还需要好好学习啊!
